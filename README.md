@@ -1,5 +1,5 @@
 # GPU-enabled-Hessian-SIM
-The original Hessian-SIM code has been revised to fully exploit the GPU. This work has been published in the journal, International Journal of Biomedical Imaging.
+The original Hessian-SIM code has been revised to fully exploit the GPU. This work has been published in the journal, International Journal of Biomedical Imaging. For more details, please refer to our [research paper](https://onlinelibrary.wiley.com/doi/10.1155/2024/8862387).
 
 # Refer to this work
 If you are using our work or are motivated by it, please use the BibTeX format below:
